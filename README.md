@@ -1,2 +1,2 @@
 # MY-Base-CSS
-My cut and paste CSS
+My copy and paste CSS
