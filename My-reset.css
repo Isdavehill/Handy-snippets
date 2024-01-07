@@ -33,6 +33,10 @@ p {
     text-wrap: pretty;
 }
 
+a {
+    color: inherit;
+}
+
 img,
 svg,
 video {
